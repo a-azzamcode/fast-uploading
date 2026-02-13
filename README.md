@@ -60,6 +60,6 @@ Output:
  * Running on http://***.***.***.***:5000 (your IP address)
 ```
 
-Open browser on another devices (on same wifi): **http://<your IP address>:5000**
+Open browser on another devices (on same wifi): http://***.***.***.***:5000 (fill in what is stated in your IP address)
 
 
