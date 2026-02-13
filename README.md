@@ -24,12 +24,14 @@ Create these 3 files:
 
 #### Project Structure
 
+```
 fast-uploading/
 ├── templates/     
 │   └── index.html    
 ├── uploads/          # the place for uploaded files    
 ├── app.py
 └── requirements.txt
+```
 
 ### Step 3: Install Dependencies
 
